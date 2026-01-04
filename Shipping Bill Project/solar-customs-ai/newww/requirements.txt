@@ -1,0 +1,9 @@
+streamlit
+pandas
+ollama
+pdf2image
+Pillow
+openpyxl
+langchain
+langchain-community
+langchain-ollama
