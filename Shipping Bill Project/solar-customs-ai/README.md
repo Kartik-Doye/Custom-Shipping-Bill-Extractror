@@ -1,6 +1,6 @@
 
 
-# Run and deploy your AI Studio app
+# Run and deploy your AI app
 
 
 
